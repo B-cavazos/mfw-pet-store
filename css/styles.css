@@ -1,3 +1,44 @@
 .logo{
     width: 90px;
 }
+
+.nav-btn-deco{
+    background-color: pink;
+    border-radius: 2px;
+}
+
+
+.jumbotron{
+    background-image: url(/img/hero.jpg);
+    background-position: center;
+    height: 350px;
+    color: white;
+}
+
+
+.btn-deco{
+    background-color: pink;
+    border: solid 2px darkred;
+    color: darkred;
+    width: 250px;
+}
+
+.product-container{
+    height: 800px;
+}
+
+.product-col{
+    height: 200 px;
+    padding: 10px 0px 10px 0px;
+    border-radius: 10px;
+    background-color: pink;
+    margin-right: 1px;
+}
+
+#services{
+    height: 50px;
+}
+
+/* .product-item{
+    background-color: pink;
+} */
